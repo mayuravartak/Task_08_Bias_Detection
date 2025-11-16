@@ -1,0 +1,5 @@
+# Do not commit local datasets
+local_data/
+*.xlsx
+*.xls
+raw_data/
