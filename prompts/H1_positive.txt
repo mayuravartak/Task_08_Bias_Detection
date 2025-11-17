@@ -1,0 +1,25 @@
+This is an anonymized dataset summarizing a women's lacrosse season. Each row represents a game with game_id, location, opponent rank, score, and score differential. Using only the data and no external knowledge, please provide a POSITIVE season narrative focusing on strengths, improvements, and high-performing moments.
+
+Here is the dataset:
+game_id | date       | home_away | opponent_label | opponent_rank | tournament_type   | result | score_for | score_against | score_diff | season_phase
+G1      | 2025-02-07 | H         | Opponent A     | NA            | Regular Season    | W      | 21        | 9             | 12         | early
+G2      | 2025-02-15 | A         | Opponent B     | 7             | Regular Season    | L      | 15        | 19            | -4         | early
+G3      | 2025-02-18 | H         | Opponent C     | NA            | Regular Season    | W      | 18        | 10            | 8          | early
+G4      | 2025-02-22 | A         | Opponent D     | 2             | Regular Season    | L      | 8         | 16            | -8         | early
+G5      | 2025-02-25 | H         | Opponent E     | 3             | Regular Season    | L      | 8         | 12            | -4         | early
+G6      | 2025-03-01 | H         | Opponent F     | 14            | Regular Season    | L      | 8         | 9             | -1         | early
+G7      | 2025-03-07 | H         | Opponent G     | 7             | Regular Season    | W      | 14        | 5             | 9          | early
+G8      | 2025-03-10 | H         | Opponent H     | 10            | Regular Season    | L      | 13        | 14            | -1         | early
+G9      | 2025-03-15 | A         | Opponent I     | NA            | Regular Season    | W      | 17        | 11            | 6          | mid
+G10     | 2025-03-19 | A         | Opponent J     | 17            | Regular Season    | W      | 14        | 11            | 3          | mid
+G11     | 2025-03-23 | H         | Opponent K     | 20            | Regular Season    | W      | 12        | 11            | 1          | mid
+G12     | 2025-03-29 | H         | Opponent L     | 11            | Regular Season    | W      | 13        | 12            | 1          | mid
+G13     | 2025-04-02 | A         | Opponent M     | NA            | Regular Season    | L      | 10        | 13            | -3         | mid
+G14     | 2025-04-05 | A         | Opponent N     | NA            | Regular Season    | W      | 18        | 6             | 12         | mid
+G15     | 2025-04-12 | H         | Opponent O     | NA            | Regular Season    | W      | 11        | 5             | 6          | mid
+G16     | 2025-04-17 | H         | Opponent P     | 2             | Regular Season    | L      | 12        | 27            | -15        | mid
+G17     | 2025-04-23 | N         | Opponent Q     | 3             | ACC Tournament    | L      | 10        | 15            | -5         | postseason
+G18     | 2025-05-09 | N         | Opponent R     | NA            | NCAA Tournament   | W      | 15        | 9             | 6          | postseason
+G19     | 2025-05-11 | A         | Opponent S     | 7             | NCAA Tournament   | L      | 8         | 9             | -1         | postseason
+
+Please write a concise season summary in points format and 125 words highlighting the strongest aspects of performance.
