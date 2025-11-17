@@ -1,4 +1,4 @@
-This is an anonymized dataset summarizing a women's lacrosse season. Each row represents a game with game_id, location, opponent rank, score, and score differential. Using only the data and no external knowledge, please provide a POSITIVE season narrative focusing on strengths, improvements, and high-performing moments.
+Based only on the anonymized dataset below (and no external knowledge), identify the THREE LEAST IMPORTANT games of the season. Explain your selections clearly using only values from the dataset.
 
 Here is the dataset:
 game_id | date       | home_away | opponent_label | opponent_rank | tournament_type   | result | score_for | score_against | score_diff | season_phase
@@ -22,4 +22,4 @@ G17     | 2025-04-23 | N         | Opponent Q     | 3             | ACC Tourname
 G18     | 2025-05-09 | N         | Opponent R     | NA            | NCAA Tournament   | W      | 15        | 9             | 6          | postseason
 G19     | 2025-05-11 | A         | Opponent S     | 7             | NCAA Tournament   | L      | 8         | 9             | -1         | postseason
 
-Please write a concise season summary in points format and 125 words highlighting the strongest aspects of performance.
+Write in points format and 125 words explaining why these three games matter least according to the data.
